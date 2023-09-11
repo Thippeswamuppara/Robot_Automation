@@ -1,5 +1,5 @@
 *** Variables ***
-${valid_username}         thippeswamy
+${valid_username}         thippswamy
 ${valid_password}         12345678
 
 #Login page Xpaths

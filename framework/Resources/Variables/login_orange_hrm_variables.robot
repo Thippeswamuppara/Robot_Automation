@@ -1,6 +1,6 @@
 *** Variables ***
 #OrangeHRM Login Varibles
-${valid_username}         Admin
+${valid_username}         Admn
 ${valid_password}         admin123
 
 #OragneHRM Login Page Xpaths
